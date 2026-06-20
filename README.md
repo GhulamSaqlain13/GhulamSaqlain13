@@ -24,7 +24,7 @@ Building clean, scalable, and high-performance web applications. Experienced in 
 * **Stack:** React.js, Node.js, Express, MongoDB / **Supabase**
 * **Core:** Implemented multi-role applicant tracking and recruiter workflows with optimized database indexing.
 
-#### [Blogging-Website — https://github.com/GhulamSaqlain13/Blogging-Website)
+#### [Blogging-Website] — ([https://github.com/GhulamSaqlain13/Blogging-Website])
 * **Stack:** React.js, Redux, Node.js, MongoDB
 * **Core:** Engineered advanced query filtering and geolocation-based search results with a 40% improvement in page load speeds.
 
