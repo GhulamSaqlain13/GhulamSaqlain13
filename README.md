@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Ghulam Saqlain
 
-<!--
-**GhulamSaqlain13/GhulamSaqlain13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN Stack & Full-Stack Developer** 
+Building clean, scalable, and high-performance web applications. Experienced in full-stack development using MongoDB, Express, React, Node.js, and **Supabase**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+* **Frontend:** React.js, Redux Toolkit, JavaScript (ES6+), HTML5/CSS3, Tailwind CSS, Material-UI
+* **Backend & BaaS:** Node.js, Express.js, **Supabase** (Auth & Database), RESTful APIs, JWT
+* **Databases:** MongoDB, PostgreSQL (via Supabase)
+* **E-Commerce & CMS:** Shopify, WordPress, WooCommerce, Stripe Integration
+
+---
+
+### 🚀 Highlighted Projects
+
+#### [E-Commerce Platform with Admin Dashboard](https://github.com/Ghulam-Saqlain13)
+* **Stack:** React.js, Redux Toolkit, Node.js, Express, MongoDB, Stripe
+* **Core:** Features secure JWT role-based access, real-time checkout processing, and a comprehensive management dashboard.
+
+#### [Job Portal](https://github.com/Ghulam-Saqlain13)
+* **Stack:** React.js, Node.js, Express, MongoDB / **Supabase**
+* **Core:** Implemented multi-role applicant tracking and recruiter workflows with optimized database indexing.
+
+#### [Estate Agility — Real Estate Platform](https://github.com/Ghulam-Saqlain13)
+* **Stack:** React.js, Redux, Node.js, MongoDB
+* **Core:** Engineered advanced query filtering and geolocation-based search results with a 40% improvement in page load speeds.
+
+---
+
+### 🎓 Education & Certifications
+
+* **B.S. in Computer Science** – Virtual University of Pakistan
+* **MERN Stack Development** – Coursera Certification
+
+---
+
+### 📩 Let's Connect
+
+* **Email:** saqlainghulam78@gmail.com
+* **GitHub:** [github.com/Ghulam-Saqlain13](https://github.com/Ghulam-Saqlain13)[cite: 1]
+
+*Open to Full-Time, Part-Time, and Freelance engineering opportunities.*
