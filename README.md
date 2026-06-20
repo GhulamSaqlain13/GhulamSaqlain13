@@ -16,15 +16,15 @@ Building clean, scalable, and high-performance web applications. Experienced in 
 
 ### 🚀 Highlighted Projects
 
-#### [E-Commerce Platform with Admin Dashboard](https://github.com/Ghulam-Saqlain13)
+#### [E-Commerce Platform with Admin Dashboard]([https://github.com/Ghulam-Saqlain13](https://github.com/GhulamSaqlain13/Mern-Stack-Ecommerce-Application))
 * **Stack:** React.js, Redux Toolkit, Node.js, Express, MongoDB, Stripe
 * **Core:** Features secure JWT role-based access, real-time checkout processing, and a comprehensive management dashboard.
 
-#### [Job Portal](https://github.com/Ghulam-Saqlain13)
+#### [Job Portal]([https://github.com/Ghulam-Saqlain13](https://github.com/GhulamSaqlain13/Blogging-Website))
 * **Stack:** React.js, Node.js, Express, MongoDB / **Supabase**
 * **Core:** Implemented multi-role applicant tracking and recruiter workflows with optimized database indexing.
 
-#### [Estate Agility — Real Estate Platform](https://github.com/Ghulam-Saqlain13)
+#### [Blogging-Website — https://github.com/GhulamSaqlain13/Blogging-Website)
 * **Stack:** React.js, Redux, Node.js, MongoDB
 * **Core:** Engineered advanced query filtering and geolocation-based search results with a 40% improvement in page load speeds.
 
@@ -40,6 +40,6 @@ Building clean, scalable, and high-performance web applications. Experienced in 
 ### 📩 Let's Connect
 
 * **Email:** saqlainghulam78@gmail.com
-* **GitHub:** [github.com/Ghulam-Saqlain13](https://github.com/Ghulam-Saqlain13)[cite: 1]
+* **GitHub:** [github.com/Ghulam-Saqlain13](https://github.com/Ghulam-Saqlain13)
 
 *Open to Full-Time, Part-Time, and Freelance engineering opportunities.*
