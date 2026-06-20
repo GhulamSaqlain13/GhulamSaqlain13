@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ghulam Saqlain
 
-**MERN Stack & Full-Stack Developer**[cite: 1]  
-Building clean, scalable, and high-performance web applications. Experienced in full-stack development using MongoDB, Express, React, Node.js, and **Supabase**[cite: 1]. 
+**MERN Stack & Full-Stack Developer**
+Building clean, scalable, and high-performance web applications. Experienced in full-stack development using MongoDB, Express, React, Node.js, and **Supabase**
 
 ---
 
@@ -16,15 +16,15 @@ Building clean, scalable, and high-performance web applications. Experienced in 
 
 ### 🚀 Highlighted Projects
 
-#### [E-Commerce Platform with Admin Dashboard](https://github.com/GhulamSaqlain13/Mern-Stack-Ecommerce-Application)[cite: 1]
+#### [E-Commerce Platform with Admin Dashboard](https://github.com/GhulamSaqlain13/Mern-Stack-Ecommerce-Application)
 * **Stack:** React.js, Redux Toolkit, Node.js, Express, MongoDB, Stripe
 * **Core:** Features secure JWT role-based access, real-time checkout processing via Stripe, and a comprehensive management dashboard.
 
-#### [Job Portal](https://github.com/GhulamSaqlain13/Job-Portal)[cite: 1]
+#### [Job Portal](https://github.com/GhulamSaqlain13/Job-Portal)
 * **Stack:** React.js, Node.js, Express, MongoDB / **Supabase**
 * **Core:** Implemented multi-role applicant tracking and recruiter workflows with optimized database indexing to reduce API latency.
 
-#### [Blogging Website](https://github.com/GhulamSaqlain13/Blogging-Website)[cite: 1]
+#### [Blogging Website](https://github.com/GhulamSaqlain13/Blogging-Website)
 * **Stack:** React.js, Node.js, Express, MongoDB
 * **Core:** Developed a multi-user blog with a rich-text editor, secure bcrypt password hashing, JWT authentication, and custom comment sections.
 
