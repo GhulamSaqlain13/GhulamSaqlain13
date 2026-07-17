@@ -10,7 +10,7 @@
 
 <br/>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
@@ -35,14 +35,14 @@ fun_fact: I turn coffee ☕ into clean, scalable code.
 
 <div align="center">
 
-🎓 **BS Computer Science Student**  •  💻 **Full Stack MERN Developer**  •  📱 **React Native Learner**
+💻 **Full Stack MERN Developer**  •  📱 **React Native Developer**
 🌍 **Open Source Enthusiast**  •  ⚡ **Passionate about Scalable Web Applications**
 
 </div>
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">Current Focus</h2>
 
 <div align="center">
 
@@ -56,7 +56,7 @@ fun_fact: I turn coffee ☕ into clean, scalable code.
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -102,7 +102,7 @@ fun_fact: I turn coffee ☕ into clean, scalable code.
 </div>
 
 <details>
-<summary align="center"><b>🧰 Full Tech Icons Grid (click to expand)</b></summary>
+<summary align="center"><b>Full Tech Icons Grid (click to expand)</b></summary>
 
 <br/>
 
@@ -114,7 +114,7 @@ fun_fact: I turn coffee ☕ into clean, scalable code.
 
 ---
 
-<h2 align="center">🗺️ Learning Roadmap</h2>
+<h2 align="center">Learning Roadmap</h2>
 
 <div align="center">
 
@@ -123,8 +123,8 @@ fun_fact: I turn coffee ☕ into clean, scalable code.
 | ✅ | HTML, CSS, JavaScript (ES6+) | Completed |
 | ✅ | React.js, Redux Toolkit, Tailwind CSS | Completed |
 | ✅ | Node.js, Express.js, MongoDB, REST APIs | Completed |
-| 🔄 | Next.js & Full Stack MERN Projects | In Progress |
-| 🔄 | React Native (Mobile Development) | In Progress |
+| ✅ | Next.js & Full Stack MERN Projects | Completed |
+| ✅ | React Native (Mobile Development) | Completed |
 | 🔜 | Docker, Kubernetes, CI/CD | Upcoming |
 | 🔜 | AWS, Cloud Architecture & System Design | Upcoming |
 | 🔜 | AI-Powered App Integrations | Upcoming |
@@ -139,7 +139,7 @@ fun_fact: I turn coffee ☕ into clean, scalable code.
 
 ---
 
-<h2 align="center">💼 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -214,31 +214,15 @@ Modern online store with cart, checkout & payments.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 React Portfolio Website
+### React Portfolio Website
 Personal developer portfolio with smooth animations.
 
-- 🎨 Framer Motion Animations
-- 📱 Fully Responsive Design
-- 📩 Contact Form Integration
-- ⚡ Optimized Performance
+- Framer Motion Animations
+- Fully Responsive Design
+- Contact Form Integration
+- Optimized Performance
 
 **Stack:** `React` `Tailwind CSS` `Framer Motion`
-
-[![Repo](https://img.shields.io/badge/Repository-Link_Here-6366f1?style=for-the-badge&logo=github)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Link_Here-10b981?style=for-the-badge&logo=vercel)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏬 Shopify Store Development
-Custom Shopify storefront design & development.
-
-- 🎨 Custom Theme Development
-- 🔌 App & Plugin Integration
-- 📈 Conversion-Optimized Layout
-- 📱 Mobile-First Design
-
-**Stack:** `Shopify` `Liquid` `JavaScript` `CSS3`
 
 [![Repo](https://img.shields.io/badge/Repository-Link_Here-6366f1?style=for-the-badge&logo=github)](#)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Link_Here-10b981?style=for-the-badge&logo=vercel)](#)
@@ -255,7 +239,7 @@ Custom Shopify storefront design & development.
 
 ---
 
-<h2 align="center">💡 Fun Facts</h2>
+<h2 align="center">Fun Facts</h2>
 
 <div align="center">
 
@@ -269,7 +253,7 @@ Custom Shopify storefront design & development.
 
 ---
 
-<h2 align="center">🌟 Quote of the Day</h2>
+<h2 align="center">Quote of the Day</h2>
 
 <div align="center">
 
@@ -279,7 +263,7 @@ Custom Shopify storefront design & development.
 
 ---
 
-<h2 align="center">💼 Why Work With Me</h2>
+<h2 align="center">Why Work With Me</h2>
 
 <div align="center">
 
@@ -295,7 +279,7 @@ Custom Shopify storefront design & development.
 
 ---
 
-<h2 align="center">🤝 Let's Collaborate</h2>
+<h2 align="center">Let's Collaborate</h2>
 
 <div align="center">
 
@@ -307,7 +291,7 @@ If you're building something exciting or have an opportunity in mind — let's c
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
@@ -329,7 +313,7 @@ If you're building something exciting or have an opportunity in mind — let's c
 
 <div align="center">
 
-### 🏷️ Keywords
+### Keywords
 `Full Stack Developer` • `MERN Stack Developer` • `React Developer` • `Next.js Developer` • `Node.js Developer` • `JavaScript Developer` • `TypeScript Developer` • `React Native Developer` • `Software Engineer` • `Web Developer` • `Open Source Contributor` • `MongoDB` • `Express.js` • `Cloud & DevOps` • `AI Integrations` • `Pakistan Developer`
 
 </div>
