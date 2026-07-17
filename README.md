@@ -18,7 +18,7 @@
 
 ```yaml
 name: Ghulam Saqlain
-location: Pakistan 🇵🇰
+location: Pakistan
 role: Full Stack MERN Developer
 education: BS Computer Science Student
 learning: React Native, Cloud, DevOps
