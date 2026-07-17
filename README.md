@@ -23,8 +23,7 @@ role: Full Stack MERN Developer
 education: BS Computer Science Student
 learning: React Native, Cloud, DevOps
 focus: Scalable Web Applications & AI-Powered Products
-mission: >
-  Becoming a world-class Full Stack Engineer specializing in
+mission:Becoming a world-class Full Stack Engineer specializing in
   MERN, Next.js, React Native, Cloud, DevOps & AI Integrations.
 fun_fact: I turn coffee ☕ into clean, scalable code.
 ```
