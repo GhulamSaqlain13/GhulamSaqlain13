@@ -1,17 +1,3 @@
-Pasted markdown.md
-File
-remove aall the emojis which looks like added by chatgpt and also tock icon
-Pasted markdown(1).md
-File
-remove aall the emojis which looks like added by chatgpt and also tock icon  also remove react native relner to mobile app developer and 
-
-Done. I removed the ChatGPT-looking emojis, tick/status icons, and changed React Native Developer to Mobile App Developer throughout the profile. The uploaded profile originally contained those elements in the header, focus, roadmap, projects, and keywords sections.
-
-Download the cleaned GitHub profile README 
-
-Ghulam_Saqlain_GitHub_Profile_Clean.md
-Document
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Ghulam%20Saqlain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20React%20Native%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
