@@ -10,21 +10,23 @@
 
 <br/>
 
-<h2 align="center">About Me</h2>
+## 👋 About Me
 
 <table align="center">
 <tr>
 <td>
 
-name: Ghulam Saqlain
-location: Pakistan
-role: Full Stack MERN Developer
-education: BS Computer Science Student
-learning: Mobile App Development, Cloud, DevOps
-focus: Scalable Web Applications & AI-Powered Products
-mission: Becoming a world-class Full Stack Engineer specializing in
-  MERN, Next.js, Mobile App Development, Cloud, DevOps & AI Integrations.
-fun_fact: I turn coffee  into clean, scalable code.
+```yaml
+Name:      Ghulam Saqlain
+Location:  Pakistan
+Role:      Full Stack MERN Developer
+Education: BS Computer Science Student
+Learning:  Mobile App Development, Cloud, DevOps
+Focus:     Scalable Web Applications & AI-Powered Products
+Mission:   Becoming a world-class Full Stack Engineer specializing in
+           MERN, Next.js, Mobile Development, Cloud, DevOps & AI Integrations.
+Fun Fact:  I turn coffee ☕ into clean, scalable code.
+```
 
 </td>
 </tr>
@@ -32,279 +34,148 @@ fun_fact: I turn coffee  into clean, scalable code.
 
 <div align="center">
 
-Full Stack MERN Developer  •   Mobile App Developer
-Open Source Enthusiast  •   Passionate about Scalable Web Applications
+🚀 Full Stack MERN Developer &nbsp;•&nbsp; 📱 Mobile App Developer &nbsp;•&nbsp; 🌐 Open Source Enthusiast &nbsp;•&nbsp; 💡 Passionate about Scalable Web Applications
 
 </div>
-
-<h2 align="center">Current Focus</h2>
-
-<div align="center">
-
-Working On
-
-Learning
-
-Open To
-
-Ask Me About
-
-MERN Stack Projects
-
-Docker, Kubernetes & DevOps
-
-Open Source Collaboration
-
-React, Next.js, Node.js, MongoDB
-
-Mobile App Development
-
-System Design & AWS
-
-Freelance / Full-time Roles
-
-REST APIs, JWT, Redux Toolkit
-
-Next.js Applications
-
-AI-Powered Integrations
-
-Tech Discussions
-
-Full Stack Architecture
-
-</div>
-
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
-
-Frontend Development
-
-
-
-
-
-
-
-
-
-
-
-
-
-Backend Development
-
-
-
-
-
-
-
-
-Database
-
-
-
-
-
-Tools & Platforms
-
-
-
-
-
-
-
-
-
-</div>
-
-<details>
-<summary align="center"><b>Full Tech Icons Grid (click to expand)</b></summary>
 
 <br/>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,materialui,figma,git,github,postman,vscode,docker,kubernetes,aws&theme=dark" />
-</div>
+## 🔭 Current Focus
 
-</details>
+| 🛠️ Working On | 📚 Learning | 🤝 Open To | 💬 Ask Me About |
+|---|---|---|---|
+| MERN Stack Projects | Docker, Kubernetes & DevOps | Open Source Collaboration | React, Next.js, Node.js, MongoDB |
+| Next.js Applications | System Design & AWS | Freelance / Full-time Roles | REST APIs, JWT, Redux Toolkit |
+| Mobile App Development | AI-Powered Integrations | Tech Discussions | Full Stack Architecture |
 
-<h2 align="center">Learning Roadmap</h2>
+<br/>
 
-<div align="center">
-
-Stage
-
-Focus Area
-
-Status
-
-
-
-HTML, CSS, JavaScript (ES6+)
-
-Completed
-
-
-
-React.js, Redux Toolkit, Tailwind CSS
-
-Completed
-
-
-
-Node.js, Express.js, MongoDB, REST APIs
-
-Completed
-
-
-
-Next.js & Full Stack MERN Projects
-
-Completed
-
-
-
-Mobile App Development
-
-Completed
-
-
-
-Docker, Kubernetes, CI/CD
-
-Upcoming
-
-
-
-AWS, Cloud Architecture & System Design
-
-Upcoming
-
-
-
-AI-Powered App Integrations
-
-Upcoming
-
-</div>
+## 💻 Tech Stack
 
 <div align="center">
 
-Actively pushing new projects and contributions as I grow — check back often!
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,figma&theme=dark" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br/><br/>
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,kubernetes,aws&theme=dark" />
 
 </div>
 
-<h2 align="center">Featured Projects</h2>
+<br/>
+
+## 🗺️ Learning Roadmap
+
+| Stage | Focus Area | Status |
+|---|---|---|
+| 1 | HTML, CSS, JavaScript (ES6+) | ✅ Completed |
+| 2 | React.js, Redux Toolkit, Tailwind CSS | ✅ Completed |
+| 3 | Node.js, Express.js, MongoDB, REST APIs | ✅ Completed |
+| 4 | Next.js & Full Stack MERN Projects | ✅ Completed |
+| 5 | Mobile App Development | ✅ Completed |
+| 6 | Docker, Kubernetes, CI/CD | 🔜 Upcoming |
+| 7 | AWS, Cloud Architecture & System Design | 🔜 Upcoming |
+| 8 | AI-Powered App Integrations | 🔜 Upcoming |
+
+<div align="center">
+
+*Actively pushing new projects and contributions as I grow — check back often!* 🌱
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-MERN Job Portal
-
+### 🧑‍💼 MERN Job Portal
 Full-featured job board connecting employers & candidates.
 
-JWT Authentication & Authorization
+- 🔐 JWT Authentication & Authorization
+- 🏢 Employer Dashboard
+- 👤 Candidate Dashboard
+- 🔍 Job Search & Advanced Filters
+- 🗄️ MongoDB Data Modeling
 
-Employer Dashboard
-
-Candidate Dashboard
-
-Job Search & Advanced Filters
-
-MongoDB Data Modeling
-
-Stack: React Node.js Express MongoDB JWT
-
-
-
+**Stack:** `React` `Node.js` `Express` `MongoDB` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-Hospital Management System
-
+### 🏥 Hospital Management System
 End-to-end system for managing patients, doctors & appointments.
 
-Appointment Scheduling
+- 📅 Appointment Scheduling
+- 🩺 Doctor & Patient Records
+- 📊 Admin Analytics Dashboard
+- 🔒 Role-Based Access Control
 
-Doctor & Patient Records
-
-Admin Analytics Dashboard
-
-Role-Based Access Control
-
-Stack: React Node.js Express MongoDB
-
-
-
+**Stack:** `React` `Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-MERN Blog CMS
-
+### 📝 MERN Blog CMS
 Content management system for creating & publishing blogs.
 
-Rich Text Editor
+- ✍️ Rich Text Editor
+- ☁️ Cloudinary Image Uploads
+- 🏷️ Categories & Tags
+- 🔎 SEO-Friendly Routing
 
-Cloudinary Image Uploads
-
-Categories & Tags
-
-SEO-Friendly Routing
-
-Stack: React Node.js Express MongoDB Cloudinary
-
-
-
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Cloudinary`
 
 </td>
 <td width="50%" valign="top">
 
-Ecommerce Website
-
+### 🛒 Ecommerce Website
 Modern online store with cart, checkout & payments.
 
-Product Catalog & Cart
+- 🛍️ Product Catalog & Cart
+- 💳 Payment Gateway Integration
+- 📦 Order Tracking
+- ⚙️ Admin Product Management
 
-Payment Gateway Integration
-
-Order Tracking
-
-Admin Product Management
-
-Stack: React Node.js Express MongoDB
-
-
-
+**Stack:** `React` `Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-React Portfolio Website
-
+### 🎨 React Portfolio Website
 Personal developer portfolio with smooth animations.
 
-Framer Motion Animations
+- 🎞️ Framer Motion Animations
+- 📱 Fully Responsive Design
+- ✉️ Contact Form Integration
+- ⚡ Optimized Performance
 
-Fully Responsive Design
+**Stack:** `React` `Tailwind CSS` `Framer Motion`
 
-Contact Form Integration
-
-Optimized Performance
-
-Stack: React Tailwind CSS Framer Motion
-
-
-
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -312,23 +183,27 @@ Stack: React Tailwind CSS Framer Motion
 
 <div align="center">
 
-More projects available on my pinned repositories →
+📌 More projects available on my pinned repositories →
 
 </div>
 
-<h2 align="center">Fun Facts</h2>
+<br/>
+
+## 🎉 Fun Facts
 
 <div align="center">
 
-I debug faster with a cup of  in hand
-I believe clean code is a form of respect for future developers
-I love turning Figma designs into pixel-perfect React components
-Currently on a mission to master Cloud & DevOps in 2026
-Always exploring how AI can supercharge web applications
+☕ I debug faster with a cup of coffee in hand
+🧹 I believe clean code is a form of respect for future developers
+🎨 I love turning Figma designs into pixel-perfect React components
+☁️ Currently on a mission to master Cloud & DevOps in 2026
+🤖 Always exploring how AI can supercharge web applications
 
 </div>
 
-<h2 align="center">Quote of the Day</h2>
+<br/>
+
+## 💬 Quote of the Day
 
 <div align="center">
 
@@ -336,69 +211,63 @@ Always exploring how AI can supercharge web applications
 
 </div>
 
-<h2 align="center">Why Work With Me</h2>
+<br/>
+
+## 🌟 Why Work With Me
+
+| What I Bring | Details |
+|---|---|
+| 🧱 Strong Fundamentals | Solid grasp of JavaScript, DSA, and the full MERN stack |
+| ⚡ Fast Learner | Constantly upskilling — Next.js, Mobile Development, Cloud & DevOps |
+| 🎯 Detail-Oriented | Focused on clean UI, smooth UX, and maintainable code |
+| 🤝 Team Player | Comfortable collaborating, taking feedback, and shipping fast |
+| 📈 Growth Mindset | Actively building projects & consistently improving on GitHub |
+
+<br/>
+
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-What I Bring
+I'm actively looking for **internships**, **entry-level roles**, **freelance projects**, and **open-source collaborations** where I can contribute and keep growing as a developer.
 
-Details
-
-Strong Fundamentals
-
-Solid grasp of JavaScript, DSA, and the full MERN stack
-
-Fast Learner
-
-Constantly upskilling — Next.js, Mobile App Development, Cloud & DevOps
-
-Detail-Oriented
-
-Focused on clean UI, smooth UX, and maintainable code
-
-Team Player
-
-Comfortable collaborating, taking feedback, and shipping fast
-
-Growth Mindset
-
-Actively building projects & consistently improving on GitHub
+If you're building something exciting or have an opportunity in mind — let's connect! 🚀
 
 </div>
 
-<h2 align="center">Let's Collaborate</h2>
+<br/>
+
+## 📫 Connect With Me
 
 <div align="center">
 
-I'm actively looking for internships, entry-level roles, freelance projects, and open-source collaborations where I can contribute and keep growing as a developer.
-
-If you're building something exciting or have an opportunity in mind — let's connect!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhulamSaqlain13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-saqlain13sep/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqlainghulam78@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://idea-to-product-opal.vercel.app/)
 
 </div>
 
-<h2 align="center">Connect With Me</h2>
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=GhulamSaqlain13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GhulamSaqlain13&theme=tokyonight&hide_border=true" width="48%"/>
 
+<br/>
 
-
-
-
-
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhulamSaqlain13&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-Keywords
-
-Full Stack Developer • MERN Stack Developer • React Developer • Next.js Developer • Node.js Developer • JavaScript Developer • TypeScript Developer • Mobile App Developer • Software Engineer • Web Developer • Open Source Contributor • MongoDB • Express.js • Cloud & DevOps • AI Integrations • Pakistan Developer
+**Keywords:** Full Stack Developer • MERN Stack Developer • React Developer • Next.js Developer • Node.js Developer • JavaScript Developer • TypeScript Developer • Mobile App Developer • Software Engineer • Web Developer • Open Source Contributor • MongoDB • Express.js • Cloud & DevOps • AI Integrations • Pakistan Developer
 
 </div>
 
